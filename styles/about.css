@@ -315,7 +315,7 @@ section
 .top_bar
 {
 	width: 100%;
-	background: #ff7518;
+	background: #213a41;
 }
 .top_bar_content
 {
@@ -344,7 +344,7 @@ section
 .emergencies
 {
 	height: 100%;
-	background: #ff0030;
+	background: #38a555;
 	color: #FFFFFF;
 	font-size: 14px;
 	font-weight: 700;
@@ -675,7 +675,7 @@ section
 }
 .home_title span
 {
-	color: #412818;
+	color: peru;
 }
 .breadcrumbs
 {
@@ -751,7 +751,7 @@ section
 {
 	width: 100%;
 	height: 287px;
-	background: #ff7518;
+	background: #213a41;
 	padding-left: 42px;
 	padding-top: 29px;
 	-webkit-transition: all 200ms ease;
@@ -1166,7 +1166,7 @@ section
 .footer_container
 {
 	width: 100%;
-	background: #dd6515;
+	background: #152c34;
 	padding-bottom: 77px;
 }
 .footer_logo_container
@@ -1255,7 +1255,7 @@ section
 {
 	font-size: 18px;
 	font-weight: 500;
-	color: #000;
+	color: #38a555;
 }
 .footer_links ul
 {
@@ -1298,7 +1298,7 @@ section
 .copyright
 {
 	width: 100%;
-	background: #ff7518;
+	background: #213a41;
 }
 .copyright_content
 {
@@ -1309,7 +1309,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 500;
-	color: #111;
+	color: #38a555;
 }
 .footer_social ul
 {
@@ -1325,7 +1325,7 @@ section
 }
 .footer_social ul li a i
 {
-	color: #000;
+	color: #38a555;
 	padding: 5px;
 	font-size: 14px;
 	-webkit-transition: all 200ms ease;
